@@ -4,10 +4,19 @@ Detailed Project Report for setting up a **Custom Hiring Centre (CHC) of Farm Ma
 
 | File | Contents |
 |---|---|
-| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.docx` | Editable DPR (Word) |
-| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.pdf` | Same DPR as PDF, 15 pages |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v2.docx` / `.pdf` | **v2 (latest)** – 17 pages |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.docx` / `.pdf` | v1 – 15 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas`) |
 
-**Project:** Vill. Dakshin Durgapur, G.P. Deulbari Debipur, Block Kultali, South 24 Parganas. The CHC has 4 machines: a Kubota DC-68G combine harvester, a Ralli power weeder, a brush cutter and a hand seeding machine.
+**v2 adds the following to v1**, using a sample CHC project report as reference:
+- General information rows: constitution, experience, productive hours a year and working days.
+- The needs that mechanization meets in the area.
+- FA-6 Projected profit and loss account (Years I–VII), including the proprietor's drawings.
+- FA-7 Projected cash flow statement (Year 0 set-up to Year VII).
+- FA-8 Projected balance sheet with current, debt–equity, fixed-asset-coverage and DSCR ratios.
+- FA-9 Break-even analysis: 48% of full capacity in Year I against 60% planned.
+- A declaration by the applicant with a signature block.
+
+All v1 figures are unchanged:
 
 | Item | Rs |
 |---|---|
