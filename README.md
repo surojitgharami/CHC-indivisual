@@ -4,8 +4,10 @@ Detailed Project Report for setting up a **Custom Hiring Centre (CHC) of Farm Ma
 
 | File | Contents |
 |---|---|
-| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v2.docx` / `.pdf` | **v2 (latest)** – 17 pages |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v2.docx` / `.pdf` | **v2 (latest)** – 16 pages |
 | `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.docx` / `.pdf` | v1 – 15 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas`) |
+
+**Latest update to v2:** the notes and table text are shorter and plainer (about 25% fewer words), and the AMC is now 18 months: Rs 41,900 paid from the TFO, then renewed at Rs 40,000 a year. Total costs, profit and tax are unchanged.
 
 **v2 adds the following to v1**, using a sample CHC project report as reference:
 - General information rows: constitution, experience, productive hours a year and working days.
