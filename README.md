@@ -4,8 +4,14 @@ Detailed Project Report for setting up a **Custom Hiring Centre (CHC) of Farm Ma
 
 | File | Contents |
 |---|---|
-| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v2.docx` / `.pdf` | **v2 (latest)** – 16 pages |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v3.docx` | **v3 (latest)** – Word only, no PDF yet |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v2.docx` / `.pdf` | v2 – 16 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas-v2`) |
 | `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.docx` / `.pdf` | v1 – 15 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas`) |
+
+**Updates in v3:**
+- Staff wages (11-hour day) are now Rs 2,800 a day for the combine operator and Rs 600 a day for the helper. The Year I staff cost is Rs 1,76,800 (was Rs 2,07,350). Paid days (52 in Year I to 69 from Year IV) and the 5% yearly rise are unchanged.
+- Figures that depend on wages are recalculated: Year I expenditure Rs 8,98,467 and net income Rs 4,77,033; Year I book loss Rs 18,545; average DSCR 2.08 (lowest 1.74); break-even 61.9% of capacity in Year I. Tax is still nil.
+- v3 is based on an edited copy of v2 (shorter text; the declaration section is left out).
 
 **Updates to v2:**
 - Latest (final): the combine works 11-hour days (825 hours a year at full capacity) at Rs 2,700 an hour (about Rs 820 a bigha). Income, operating costs, profit, cash flow, DSCR and break-even are recalculated (average DSCR 1.89, lowest 1.57; a small book loss in Year I, cash positive every year).
