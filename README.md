@@ -9,9 +9,10 @@ Detailed Project Report for setting up a **Custom Hiring Centre (CHC) of Farm Ma
 | `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.docx` / `.pdf` | v1 – 15 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas`) |
 
 **Updates in v3:**
-- Latest: lower Year I costs – shifting of the combine Rs 47,500 (was Rs 62,458), repairs and spares Rs 57,500 (was Rs 1,03,031) and miscellaneous Rs 35,000 (was Rs 58,000). Later years keep the same pattern (miscellaneous rises 5% a year; shifting and repairs are scaled by the same factor in every year).
-- Staff wages (11-hour day) are Rs 2,800 a day for the combine operator and Rs 600 a day for the helper; Year I staff cost Rs 1,76,800 (was Rs 2,07,350). Paid days (52 in Year I to 69 from Year IV) and the 5% yearly rise are unchanged.
-- All dependent figures are recalculated: Year I expenditure Rs 8,14,978, net income Rs 5,60,522 and a profit of Rs 64,944 (no book loss); average DSCR 2.92 (lowest 2.27); break-even 53.9% of capacity in Year I. Tax is still nil (from Year III the s. 156 rebate covers it).
+- Latest (final): the combine works 10-hour days (750 hours a year at full capacity; 450 in Year I, 600 from Year IV) at Rs 2,700 an hour. Area is about 198 ha (792 bookings) in Year I and 264 ha (1,056 bookings) from Year IV.
+- Staff wages (10-hour day) are Rs 2,400 a day for the combine operator and Rs 600 a day for the helper; Year I staff cost Rs 1,56,000. Paid days (52 in Year I to 69 from Year IV) and the 5% yearly rise are unchanged.
+- Year I costs: shifting of the combine Rs 47,500, repairs and spares Rs 57,500 and miscellaneous Rs 35,000. Later years keep the same pattern (miscellaneous rises 5% a year; shifting and repairs are scaled by the same factor in every year).
+- All dependent figures are recalculated: Year I income Rs 12,54,000, expenditure Rs 7,55,478, net income Rs 4,98,522 and a small profit of Rs 2,944 (no book loss); average DSCR 2.56 (lowest 2.00); break-even 59.7% of capacity in Year I against 60% planned. Tax is still nil (from Year V the s. 156 rebate covers it).
 - v3 is based on an edited copy of v2 (shorter text; the declaration section is left out).
 
 **Updates to v2:**
