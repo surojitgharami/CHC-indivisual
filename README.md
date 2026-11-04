@@ -4,9 +4,17 @@ Detailed Project Report for setting up a **Custom Hiring Centre (CHC) of Farm Ma
 
 | File | Contents |
 |---|---|
-| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v4.docx` | **v4 (latest, final)** – Word only, no PDF yet |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v5.docx` / `.pdf` | **v5 (latest)** – 25 pages |
+| `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v4.docx` | v4 – Word only, unchanged (also on branch `chc-dpr-ramprasad-biswas-v3`) |
 | `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27-v2.docx` / `.pdf` | v2 – 16 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas-v2`) |
 | `DPR-CHC-Ramprasad-Biswas-Dakshin-Durgapur-2026-27.docx` / `.pdf` | v1 – 15 pages, unchanged (also on branch `chc-dpr-ramprasad-biswas`) |
+
+**Updates in v5** (all figures are the same as in v4):
+- The financial annexure (Part B) follows the reference CA project report: Annexure 1 Estimated cost of the project, 2 Means of finance, 3 Complete estimate of civil work and plant and machinery, 4 Estimated cost of production and profitability, 5 Projected balance sheet and financial ratios, 6 Requirement of power and fuel, 7 Sales/service budget, 8 Details of salary and wages, 9 Computation of depreciation, 10 Calculation of income tax, 11 Break-even analysis, 12 Cash flow statement, 13 Repayment schedule.
+- Each annexure starts on its own page, and a list of annexures with page numbers opens Part B. The blank page in v4's annexure is gone.
+- Annexure 13 puts the loan terms and a half-yearly repayment schedule of the loan with interest on one page.
+- Tables are easier to read: larger text (10 pt in Part A, 9.5–10 pt in Part B; v4 used 8–9 pt), more space in each row, and bold headings.
+- The land is 3 decimal of own bastu land (v4 said 2 decimal).
 
 **Updates in v4:**
 - Latest (final): the combine works 10-hour days (750 hours a year at full capacity; 450 in Year I, 600 from Year IV) at Rs 2,700 an hour. Area is about 198 ha (792 bookings) in Year I and 264 ha (1,056 bookings) from Year IV.
