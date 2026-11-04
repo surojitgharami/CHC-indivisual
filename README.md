@@ -15,7 +15,7 @@ Detailed Project Report for setting up a **Custom Hiring Centre (CHC) of Farm Ma
 - Annexure 13 puts the loan terms and a half-yearly repayment schedule of the loan with interest on one page.
 - Tables are easier to read: larger text (10 pt in Part A, 9.5–10 pt in Part B; v4 used 8–9 pt), more space in each row, and bold headings.
 - The land is 3 decimal of own bastu land (v4 said 2 decimal).
-- Section 11 (SWOT / risk management) comes after Part B, at the end of the report.
+- SWOT and risk management comes after Part B, at the end of the report, as Part C (C.1 SWOT analysis, C.2 Risk management).
 
 **Updates in v4:**
 - Latest (final): the combine works 10-hour days (750 hours a year at full capacity; 450 in Year I, 600 from Year IV) at Rs 2,700 an hour. Area is about 198 ha (792 bookings) in Year I and 264 ha (1,056 bookings) from Year IV.
